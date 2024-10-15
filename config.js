@@ -18,7 +18,7 @@ module.exports = {
   OWNER_NUMBER: process.env.OWNER_NUMBER || "94743595243",
   //========================================- OTHER - CONFIGS -=====================================================================
   NSFW_CMD: process.env.NSFW_CMD || "false",
-  MONGODB: process.env.MONGODB || "mongodb+srv://vishwamihi22:vishwamihi22@cluster0.y6r9gav.mongodb.net/",
+  MONGODB: process.env.MONGODB || "mongodb+srv://rush:20041025sa@cluster0.ysi6dsf.mongodb.net/",
   TIMEZONE: process.env.TIMEZONE || "Asia/Colombo",
   AUTO_VOICE: process.env.AUTO_VOICE || "false",
   AUTO_BIO: process.env.AUTO_BIO || "false",
